@@ -88,10 +88,10 @@
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandpandey1982004&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandpandey1982004&layout=compact&theme=tokyonight&hide_border=true" width="40%" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandpandey1982004&theme=tokyonight&hide_border=true" width="70%" />  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandpandey1982004&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnandPandey357&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandPandey357&layout=compact&theme=tokyonight&hide_border=true" width="40%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandPandey357&theme=tokyonight&hide_border=true" width="70%" />  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnandPandey357&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
