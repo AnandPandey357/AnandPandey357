@@ -1,13 +1,15 @@
 
 <div align="center">
-Hi, I'm Anand Pandey
-Ethical Hacker
-AI & Cyber Security Enthusiast
-Problem Solver
+
+# <span style="color:#00D4FF; font-weight:bold;">Hi, I'm Anand Pandey</span>  
+<span style="color:#FF6B6B; font-weight:bold;">Ethical Hacker</span>  
+<span style="color:#4ECDC4; font-weight:bold;">AI & Cyber Security Enthusiast</span>  
+<span style="color:#FFD93D; font-weight:bold;">Problem Solver</span>  
+
 <img src="https://komarev.com/ghpvc/?username=anandpandey1982004&label=Profile%20Views&color=00d4ff&style=flat-square" alt="Profile Views" />
-<!-- Gradient Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=twinkling&section=header"/>
+
 </div>
+
 
 ***
 
