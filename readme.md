@@ -72,43 +72,39 @@
 
 ## 🏆 Achievements & Certifications  
 <div align="center">
-![Achievement](https://img.shields.io/badge/Finalist-SIH_2024-success?style=for-the-badge&labelhttps://img.shields.io/badge/Winner-Project_Expo_Cyber_Physical_Systems-blue?style=for-the-badge&labelColorhttps://img.shields.io/badge/Certified_Ethical_Hacker-EC_Council-green?style=for-the-badge&labelColor=1F1https://img.shields.io/badge/Cyber_Security_Analyst-IBM-lightgrey?style=for-the-bhttps://img.shields.io/badge/GEN_AI_Using_IBM_Watsonx-IBM-purple?style=for-the
-
-
-
-
-
-![Achievement](https://img.shields.io/badge/Intro_to_Cyber_Security-CISCO-orange?style=for-the
-
-
-
-
-
-
+![Finalist SIH 2024](https://img.shields.io/badge/Finalist-SIH_2024-success?style=for-the-badge&labelColor=1F1F1F)
+![Winner Project Expo CPS](https://img.shields.io/badge/Winner-Project_Expo_Cyber_Physical_Systems-blue?style=for-the-badge&labelColor=1F1F1F)
+![Certified Ethical Hacker](https://img.shields.io/badge/Certified_Ethical_Hacker-EC_Council-green?style=for-the-badge&labelColor=1F1F1F)
+![Cyber Security Analyst](https://img.shields.io/badge/Cyber_Security_Analyst-IBM-lightgrey?style=for-the-badge&labelColor=1F1F1F)
+![GEN AI using IBM Watsonx](https://img.shields.io/badge/GEN_AI_Using_IBM_Watsonx-IBM-purple?style=for-the-badge&labelColor=1F1F1F)
+![Intro to Cyber Security](https://img.shields.io/badge/Intro_to_Cyber_Security-CISCO-orange?style=for-the-badge&labelColor=1F1F1F)
 </div>
 
-***
+---
 
 ## 📊 GitHub Stats  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anandpandey1982004&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandpandey1982004&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandpandey1982004&theme=tokyonight&hide_border=true" width="70%" />
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anandpandey1982004&theme=react-dark&hide_border=true
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anandpandey1982004&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
 
 ## 🌐 Connect With Me  
 <div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-ch(https://portfolio-beryl-beta  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&(https://linkedin.com/in/an  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor(https://github.com/anand  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor(mailto:anandpandey198200  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-beryl-beta-49.vercel.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-pandey)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anandpandey1982004)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandpandey1982004@gmail.com)  
 </div>
 
-***
+---
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=twinkling&section=footer"/>
 ### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House  
-![Thank You](https://img.shields.io/badge/Thank_You_for_Visiting!-FF6B6B?style=for-the-badge&logo=heart&logoColor=white version integrates your resume details into an attractive, modern README to showcase your skills, projects, and achievements effectively with consistent styling and links. If needed, project links can be updated with actual URLs.
+![Thank You](https://img.shields.io/badge/Thank_You_for_Visiting!-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)
+</div>
 
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/94608636/51f47bcb-9cc3-42aa-906f-cfed5ebb8cd2/anand.resume1.pdf)
