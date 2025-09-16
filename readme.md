@@ -72,7 +72,7 @@
 
 ## 🏆 Achievements & Certifications  
 
-<div align="center">
+<div >
 
 ![Finalist SIH 2024](https://img.shields.io/badge/Finalist-SIH_2024-success?style=for-the-badge&labelColor=1F1F1F)  
 ![Winner Project Expo CPS](https://img.shields.io/badge/Winner-Project_Expo_Cyber_Physical_Systems-blue?style=for-the-badge&labelColor=1F1F1F)  
@@ -96,12 +96,4 @@
 
 ---
 
-## 🌐 Connect With Me  
-
-<div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-beryl-beta-49.vercel.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-pandey)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anandpandey1982004)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandpandey1982004@gmail.com)  
-</div>
 
