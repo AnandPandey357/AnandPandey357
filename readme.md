@@ -1,7 +1,9 @@
 
 <div align="center">
-<!-- Typing SVG Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=👋+Hi,+I'm+Anand+Pandey;💻+Full+Stack+Developer+%26+Ethical+Hacker;🤖+AI+%26+Cyber+Security+Enthusiast;🌐+Open+Source+Contributor;🚀+Problem+Solver Views -->
+Hi, I'm Anand Pandey
+Ethical Hacker
+AI & Cyber Security Enthusiast
+Problem Solver
 <img src="https://komarev.com/ghpvc/?username=anandpandey1982004&label=Profile%20Views&color=00d4ff&style=flat-square" alt="Profile Views" />
 <!-- Gradient Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=twinkling&section=header"/>
