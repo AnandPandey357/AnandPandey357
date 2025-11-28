@@ -13,12 +13,12 @@
 
 ***
 
-## 🚀 About Me  
+##  About Me  
 <div align="center">
-🔭 Working on **Advanced AI/ML & Cyber Security Projects**  
-🌱 Exploring **Cloud Architecture & Ethical Hacking**  
-👯 Open to collaborate on **Open Source, AI Solutions & Security Research**  
-⚡ Fun fact: **I turn complex security challenges into robust solutions!** 🔐💻✨  
+Working on **Advanced AI/ML & Cyber Security Projects**  
+Exploring **Cloud Architecture & Ethical Hacking**  
+Open to collaborate on **Open Source, AI Solutions & Security Research**  
+Fun fact: **I turn complex security challenges into robust solutions!**   
 </div>
 
 ***
